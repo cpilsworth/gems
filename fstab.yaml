@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/jalagari/gems/main
+    url: https://author-p31359-e1315637.adobeaemcloud.com/bin/franklin.delivery/cpilsworth/gems/main
     type: "markup"
     suffix: ".md.html"
